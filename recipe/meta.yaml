@@ -1,5 +1,5 @@
 {% set name = "pycomm3" %}
-{% set version = "1.2.10" %}
+{% set version = "1.2.11" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pycomm3-{{ version }}.tar.gz
-  sha256: cb6f41c49269e5ba7dd9c5ded319b8f9964a26c04246a52f2ebd906af04f3c1a
+  sha256: fa9cff7c7dd502f26a4756f9a87c5cad2c5f6fbea9a5ce3e475e7fece230ea0b
 
 build:
   number: 0
