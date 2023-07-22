@@ -1,11 +1,11 @@
-About pycomm3
-=============
+About pycomm3-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pycomm3-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ottowayi/pycomm3
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pycomm3-feedstock/blob/main/LICENSE.txt)
 
 Summary: A Python Ethernet/IP library for communicating with Allen-Bradley PLCs.
 
